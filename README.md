@@ -2,8 +2,8 @@
 Autore: Simone Carpi simone.carpi@studio.unibo.it
 
 La Repository contiene un file: VLAN.gns3project.
-Nel file è contenuto il progetto con la topologia della rete,
-la sua configurazione per permette l'Inter-VLAN Routing
+Nel file è contenuto il progetto con la topologia della rete, 
+la sua configurazione per permette l'Inter-VLAN Routing.
 
 Inoltre, è presente un file Report che contiene una spiegazione sulla rete e
 sull'implementazione. 
